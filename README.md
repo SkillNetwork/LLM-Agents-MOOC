@@ -1,2 +1,2 @@
 # LLM-Agents-MOOC
-UCBerkly MOOC
+UCBekely MOOC
